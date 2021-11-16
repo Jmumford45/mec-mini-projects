@@ -1,4 +1,8 @@
 #Datasets:
 	1) Prediction of Heart Failure - https://www.kaggle.com/fedesoriano/heart-failure-prediction
 	2) sentiment analysis of tweets using twitter api - https://developer.twitter.com/en/portal/products
+<<<<<<< HEAD
 	3) Image clustering and classification - custom dataset from scraping or using image api
+=======
+	3) Image clustering and classification - custom dataset from scraping or using image api
+>>>>>>> mec-12.4.2-logistic-regression-mini-project
