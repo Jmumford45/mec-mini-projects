@@ -1,6 +1,4 @@
-#project ideas:
-	1) handwritten text classification using MNIST dataset - https://www.kaggle.com/c/digit-recognizer/data?select=sample_submission.csv
+#Datasets:
+	1) Prediction of Heart Failure - https://www.kaggle.com/fedesoriano/heart-failure-prediction
 	2) sentiment analysis of tweets using twitter api - https://developer.twitter.com/en/portal/products
-	3) object detection using OpenImage dataset - https://github.com/openimages/dataset / https://storage.googleapis.com/openimages/web/download.html
-	4) stretch idea - scrap Steam website to analysize best performing games by sales, reviews and category to predict perfomance of new games
-#
+	3) Image clustering and classification - custom dataset from scraping or using image api
